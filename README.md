@@ -10,8 +10,7 @@ Most businesses run their approvals, requests and registers on spreadsheets and 
 because custom software costs a project to build and another to change.
 [Axis](https://github.com/phuongnse/axis) lets the people who know the work build that
 software themselves. They describe the data, forms, processes and access rules in a
-visual editor. Axis checks the description, publishes it as a version they can go back
-from, and runs it.
+visual editor, and Axis turns that into a working application.
 
 A business can run Axis on its own server, starting from sample applications such as
 purchase requests, leave requests and a service desk. What comes next is on the
