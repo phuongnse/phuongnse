@@ -1,8 +1,6 @@
 # Phuong Nguyen
 
-Backend developer. In my day job I build case management, approval
-and workflow systems for public-sector clients. I am also building two products of my
-own.
+Backend developer (C#/.NET). I build two open-source projects, Axis and NexKit.
 
 ## Axis
 
@@ -16,7 +14,8 @@ A business can run Axis on its own server, starting from sample applications suc
 purchase requests, leave requests and a service desk. What comes next is on the
 [roadmap](https://github.com/phuongnse/axis/blob/main/docs/roadmap.md).
 
-**I am looking for a few businesses to try it on a real process.**
+Axis is open source. If you try it on real work, I would welcome your feedback in the
+[issues](https://github.com/phuongnse/axis/issues).
 
 ## NexKit
 
