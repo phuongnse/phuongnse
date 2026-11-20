@@ -1,6 +1,6 @@
 # Phuong Nguyen
 
-Backend developer in Ho Chi Minh City. In my day job I build case management, approval
+Backend developer. In my day job I build case management, approval
 and workflow systems for public-sector clients. I am also building two products of my
 own.
 
