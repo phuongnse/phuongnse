@@ -14,8 +14,9 @@ visual editor. Axis checks the description, publishes it as a version they can g
 from, and runs it.
 
 Axis is early. A business can run it on its own server today, starting from sample
-applications such as purchase requests, leave requests and a service desk. Sign-up on a
-hosted service, with a 30-day trial, is being built.
+applications such as purchase requests, leave requests and a service desk. What comes
+next, such as a hosted service with sign-up, is on the
+[roadmap](https://github.com/phuongnse/axis/blob/main/docs/roadmap.md).
 
 **I am looking for a few businesses to try it on a real process.**
 
@@ -27,7 +28,9 @@ project's checks, and a separate agent session reviews the change. People decide
 gets built and what gets merged, or let it run on its own and step in only where it
 asks. Open source, MIT licence.
 
-Axis is built through NexKit: more than 2,200 merged pull requests since October 2026.
+Axis is built through NexKit: every change in it comes from an issue, a plan and a
+reviewed pull request, as its
+[merged pull requests](https://github.com/phuongnse/axis/pulls?q=is%3Apr+is%3Amerged) show.
 
 ## How I work
 
