@@ -28,8 +28,7 @@ project's checks, and a separate agent session reviews the change. People decide
 gets built and what gets merged, or let it run on its own and step in only where it
 asks. Open source, MIT licence.
 
-Axis is built through NexKit: every change in it comes from an issue, a plan and a
-reviewed pull request, as its
+Axis is built through NexKit, from issues to plans to reviewed pull requests, as its
 [merged pull requests](https://github.com/phuongnse/axis/pulls?q=is%3Apr+is%3Amerged) show.
 
 ## How I work
