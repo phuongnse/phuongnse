@@ -1,42 +1,40 @@
 # Phuong Nguyen
 
-Backend developer in Ho Chi Minh City. I build business software that has to keep
-working: case management, approvals and workflow systems. I also design AI-driven
-SDLC and CI/CD pipelines, where agents plan, implement, test and review changes
-while people keep the final say.
+Backend developer in Ho Chi Minh City. For six years I have built case management,
+approval and workflow systems for public-sector clients. Now I am building two
+products of my own.
 
-## What I'm building
+## Axis
 
-**[Axis](https://github.com/phuongnse/axis)**: a configuration-first platform for
-enterprise business applications. Data models, rules, processes, pages and security
-policies are typed files. Axis validates them, compiles them into an immutable
-release and runs them on shared engines.
-`C#` `.NET 10` `ASP.NET Core` `PostgreSQL` `Testcontainers` `Playwright`
+Most businesses run their approvals, requests and registers on spreadsheets and email,
+because custom software costs a project to build and another to change.
+[Axis](https://github.com/phuongnse/axis) lets the people who know the work build that
+software themselves. They describe the data, forms, processes and access rules in a
+visual editor. Axis checks the description, publishes it as a version they can go back
+from, and runs it.
 
-**[NexKit](https://github.com/phuongnse/nexkit)**: an open-source AI SDLC pipeline
-that turns GitHub issues into reviewed, tested pull requests with Claude Code.
-A person approves every plan and every merge, and a separate AI reviewer checks
-each change.
-`GitHub Actions` `Python` `Claude Code`
+Axis is early. A business can run it on its own server today, starting from sample
+applications such as purchase requests, leave requests and a service desk. Sign-up on a
+hosted service, with a 30-day trial, is being built.
 
-Axis is built through NexKit: more than 100 merged pull requests so far.
+**I am looking for a few businesses to try it on a real process.**
+
+## NexKit
+
+[NexKit](https://github.com/phuongnse/nexkit) turns GitHub issues into reviewed, tested
+pull requests with Claude Code. An agent posts a plan and implements it, NexKit runs the
+project's checks, and a separate agent session reviews the change. People decide what
+gets built and what gets merged, or let it run on its own and step in only where it
+asks. Open source, MIT licence.
+
+Axis is built through NexKit: more than 2,200 merged pull requests since October 2026.
 
 ## How I work
 
-- Docs first: decisions, architecture and acceptance criteria come before code.
-- Every behaviour has a test, against real dependencies where it matters.
-- Agents write the code. People own the plan, the review and the merge.
-
-## Day job
-
-Six years building backend solutions on an enterprise low-code case management
-platform for public-sector clients. I also run CI/CD and AI-assisted SDLC
-pipelines in Azure DevOps.
-
-## Stack
-
-C# · .NET · ASP.NET Core · PostgreSQL · MongoDB · EF Core · Azure DevOps ·
-GitHub Actions · Docker · Python · Claude Code · MCP
+- Decisions and acceptance criteria come before code.
+- Every behaviour change has a test.
+- Agents write most of the code. I own the design, the rules they work by and the
+  review.
 
 ## Contact
 
